@@ -19,6 +19,7 @@
   "dependencies": {
     "chalk": "^0.5.1",
     "express": "^4.10.2",
+    "npmlog": "^1.0.0",
     "socket.io": "^1.2.1"
   }
 }

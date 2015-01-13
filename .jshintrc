@@ -1,5 +1,5 @@
 {
-  "esnext": false,
+  "esnext": true,
   "node": true,
   "globals": {
     "require": true,
