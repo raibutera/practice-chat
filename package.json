@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/raibutera/practice-chat/issues"
   },
-  "homepage": "https://github.com/raibutera/practice-chat"
+  "homepage": "https://github.com/raibutera/practice-chat",
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "express": "^4.10.2",
+    "socket.io": "^1.2.1"
+  }
 }
