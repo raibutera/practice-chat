@@ -1,0 +1,19 @@
+{
+  "name": "practice-chat",
+  "version": "1.0.0",
+  "description": "Practice Chat App Using Socket.io, MongoDB, and Redis",
+  "main": "chat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raibutera/practice-chat.git"
+  },
+  "author": "Rai Butera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raibutera/practice-chat/issues"
+  },
+  "homepage": "https://github.com/raibutera/practice-chat"
+}
